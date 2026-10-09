@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+private/
+profiles/
+browser-profile/
+logs/
+node_modules/
+*.pem
+*.key
+*.cookies.json
+credentials*
+__pycache__/

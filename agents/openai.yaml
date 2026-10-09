@@ -1,0 +1,4 @@
+interface:
+  display_name: "ai2gzh · AI 写作与公众号发表"
+  short_description: "从用户素材完成公众号写作、排版和正式发表，追踪发布状态并返回文章链接"
+  default_prompt: "使用 $ai2gzh，把我提供的旅行素材整理成公众号文章，预览后按我的授权正式发表并返回文章链接。"
